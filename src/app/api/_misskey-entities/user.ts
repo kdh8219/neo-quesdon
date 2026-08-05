@@ -27,5 +27,5 @@ export type MiUser = {
   hasUnreadSpecifiedNotes?: boolean;
   hasUnreadMentions?: boolean;
   isFollowing?: boolean;
-  IsFollowed?: boolean;
+  isFollowed?: boolean;
 };
